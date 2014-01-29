@@ -1,4 +1,5 @@
 #include "meow.h"
+#include "err.h"
 int main(int argc, char **argv)
 {
 	int sockfd, n;
